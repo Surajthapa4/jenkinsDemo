@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Develop Branch
+          Learn React Staging Branch
         </a>
       </header>
     </div>
